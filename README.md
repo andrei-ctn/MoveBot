@@ -1,0 +1,1 @@
+Primeste de la un robot mobil scanarea incaperii prin LIDAR, genereaza o harta pe baza imaginii si trimite coordonate pentru miscarea robotului prin incapere
