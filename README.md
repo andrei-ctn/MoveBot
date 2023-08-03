@@ -1,1 +1,1 @@
-Primeste de la un robot mobil scanarea incaperii prin LIDAR, genereaza o harta pe baza imaginii si trimite coordonate pentru miscarea robotului prin incapere
+This script generates a map based on the data received from the LIDAR scan of the room, and sends coordinates for the robot's movement throughout the room.
